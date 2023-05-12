@@ -1,0 +1,15 @@
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\bin\Debug\net7.0\lesson1HandsOn.exe
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\bin\Debug\net7.0\lesson1HandsOn.deps.json
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\bin\Debug\net7.0\lesson1HandsOn.runtimeconfig.json
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\bin\Debug\net7.0\lesson1HandsOn.dll
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\bin\Debug\net7.0\lesson1HandsOn.pdb
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.csproj.AssemblyReference.cache
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.AssemblyInfoInputs.cache
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.AssemblyInfo.cs
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.dll
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\refint\lesson1HandsOn.dll
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.pdb
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\lesson1HandsOn.genruntimeconfig.cache
+C:\Users\jwalk\source\repos\ProgrammingC#\lesson1HandsOn\obj\Debug\net7.0\ref\lesson1HandsOn.dll

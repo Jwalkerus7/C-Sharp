@@ -1,0 +1,5 @@
+dotnet new console --use-program-main -n lesson5 (OLD way with namespace and main)
+
+dotnet run(cd into folder and run this to show in console)
+
+dotnet new console -o lesson5 (NEW without namespace and main)

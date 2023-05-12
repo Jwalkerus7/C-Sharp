@@ -1,0 +1,5 @@
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\obj\Debug\net7.0\ProgrammingC#.csproj.AssemblyReference.cache
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\obj\Debug\net7.0\ProgrammingC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\obj\Debug\net7.0\ProgrammingC#.AssemblyInfoInputs.cache
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\obj\Debug\net7.0\ProgrammingC#.AssemblyInfo.cs
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\obj\Debug\net7.0\ProgrammingC#.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.csproj.AssemblyReference.cache
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.AssemblyInfoInputs.cache
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.AssemblyInfo.cs
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.csproj.CoreCompileInputs.cache
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\bin\Debug\net7.0\lesson4HandsOn.exe
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\bin\Debug\net7.0\lesson4HandsOn.deps.json
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\bin\Debug\net7.0\lesson4HandsOn.runtimeconfig.json
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\bin\Debug\net7.0\lesson4HandsOn.dll
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\bin\Debug\net7.0\lesson4HandsOn.pdb
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.dll
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\refint\lesson4HandsOn.dll
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.pdb
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\lesson4HandsOn.genruntimeconfig.cache
+C:\Users\jwalk\OneDrive\Desktop\ProgrammingC#\lesson4handsOn\obj\Debug\net7.0\ref\lesson4HandsOn.dll
